@@ -14,7 +14,7 @@
     "info.registration_closed": "Unfortunately, the New Year is already BREATHING IN YOUR BACK and registration for the event is closed.",
     "info.santa_defined": "The bot has determined a secret Santa for all participants!",
     "info.member_has_no_wishes": "There are no wishes, so {0} will be glad to receive any gift from you!",
-    "info.member_wishes": "**Wishes {0}:** {1}",
+    "info.member_wishes": "**{0} wishes:** {1}",
     "info.member_embed_desc": "{0} will be waiting for a gift from you!\n\n🎁 {1}",
     "info.not_yet": "At the moment the bot is waiting for more participants!\nSecret Santas will be determined <t:{0}:f>",
     "info.no_wishes": "**You did not indicate any wishes for the gift!**",
