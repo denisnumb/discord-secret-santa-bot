@@ -45,7 +45,7 @@ docker compose up --build
 
 ![start](https://github.com/user-attachments/assets/4fa7a0f8-a9ca-4c9b-a6cf-af2ffcc94912)
 
-- Click the button to participate and indicate your gift wishes, or leave the field blank—you can change your wishes later *(But no later than an hour before the end of the event)*.
+- Click the button to participate and indicate your gift wishes, or leave the field blank — you can change your wishes later *(But no later than an hour before the end of the event)*.
 
 ![wishes](https://github.com/user-attachments/assets/c68a5294-06d1-47ec-a5a2-8c698702d09b)
 
@@ -90,5 +90,6 @@ xeon's DM with bot:
 💬 There is currently no command for this, so you need to turn off the bot, specify a new value for the `event_end_datetime` parameter in `config.json` and turn the bot back on.
 
 ℹ️ If the bot is running in a Docker container, you don't need to recreate anything — this file is used directly from the host machine.
+
 
 
