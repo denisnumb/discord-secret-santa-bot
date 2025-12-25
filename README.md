@@ -34,7 +34,7 @@ Configuration parameters:
 python src/main.py
 ```
 
-- 🐋 Run using docker:
+🐋 Run using docker:
 ```cmd
 docker compose up --build
 ```
@@ -90,4 +90,5 @@ xeon's DM with bot:
 💬 There is currently no command for this, so you need to turn off the bot, specify a new value for the `event_end_datetime` parameter in `config.json` and turn the bot back on.
 
 ℹ️ If the bot is running in a Docker container, you don't need to recreate anything — this file is used directly from the host machine.
+
 
