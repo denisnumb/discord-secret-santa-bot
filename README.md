@@ -29,7 +29,7 @@ Configuration parameters:
 - `gift_budget` — Gift purchase budget. The currency is defined in the localization file in the `locales` directory.
 - `locale` — Bot locale
 
-- 🐍 Run simple
+🐍 Run simple
 ```cmd
 python src/main.py
 ```
@@ -90,3 +90,4 @@ xeon's DM with bot:
 💬 There is currently no command for this, so you need to turn off the bot, specify a new value for the `event_end_datetime` parameter in `config.json` and turn the bot back on.
 
 ℹ️ If the bot is running in a Docker container, you don't need to recreate anything — this file is used directly from the host machine.
+
